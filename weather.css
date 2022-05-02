@@ -1,0 +1,23 @@
+#display{
+
+    width: 50%;
+    height: 300px;
+    margin: auto;
+   
+}
+
+#box{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+h2{
+    color:purple;
+}
+h3{
+    color: crimson;
+}
+body{
+    text-align: center;
+}
